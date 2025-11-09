@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "ecoWeatherApp",
+    "slug": "ecoweatherapp",
+    "scheme": "ecoweatherapp",
+    "android": {
+      "package": "com.marcos.ecoweatherapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.marcos.ecoweatherapp"
+    }
+  }
+}
