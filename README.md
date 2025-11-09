@@ -57,10 +57,9 @@ QR Code → abrir no celular com o Expo Go
 ---
 
 🌍 APIs Utilizadas
-API	Endpoint	Descrição
-Open-Meteo Weather	https://api.open-meteo.com/v1/forecast	Dados de clima
-Open-Meteo Air Quality	https://air-quality-api.open-meteo.com/v1/air-quality	Índices de poluentes
-Open-Meteo Geocoding	https://geocoding-api.open-meteo.com/v1/search	Conversão de nome da cidade para coordenadas
+ - Open-Meteo Weather	https://api.open-meteo.com/v1/forecast	Dados de clima
+ - Open-Meteo Air Quality	https://air-quality-api.open-meteo.com/v1/air-quality	Índices de poluentes
+ - Open-Meteo Geocoding	https://geocoding-api.open-meteo.com/v1/search	Conversão de nome da cidade para coordenadas
 
 ---
 
